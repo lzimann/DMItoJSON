@@ -1,0 +1,11 @@
+#DM ignores
+*.rsc
+*.dmb
+*.zip
+*.mdme
+*.lk
+
+#DMItoJSON specific
+*.json
+*.icon_dump/*
+
